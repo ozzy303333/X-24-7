@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 ,RedTraffic 2
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 ,RedTraffic 3
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 ,RedTraffic 4
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 ,RedTraffic 5
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 ,RedTraffic 6
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 ,RedTraffic 7
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 ,RedTraffic 8
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 ,RedTraffic 16
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 ,RedTraffic 13
+http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Anal (720p)
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/3eUIaHx.png",AdultIPTV.net Asian (720p)
@@ -129,20 +147,8 @@ http://live.redtraffic.xyz/latina.m3u8
 http://live.redtraffic.xyz/blowjob.m3u8
 #EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",Dusk
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",Juice
-http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png",SEXTATION
 http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",You Porn
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",PenthouseX
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png",Sextreme
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png",HustlerXXX
-http://live.redtraffic.xyz/bigdick.m3u8
 #EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.diesl.com/wp-content/uploads/2013/04/hustlertv.png",PrivateX
 http://live.redtraffic.xyz/cuckold.m3u8
 #EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://vercanalestv.com/imagenes/redlight.png",RedlightX
